@@ -1,4 +1,4 @@
-/* Dark Mode Styling */
+/* General Dark Mode Styling */
 body {
     margin: 0;
     font-family: Arial, sans-serif;
@@ -86,7 +86,7 @@ body {
 /* Public Chat Area */
 #messagesPublic {
     grid-column: 2 / 3;
-    grid-row: 1 / 3;
+    grid-row: 1 / 2;
     background-color: #36393f;
     padding: 15px;
     overflow-y: auto;
